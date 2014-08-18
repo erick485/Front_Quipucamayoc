@@ -155,6 +155,16 @@ dd>a{
 #foot>li{
 	margin-left: 26px;
 }
+<<<<<<< HEAD
 #foot>li:hover{
 	cursor: pointer;
 };
+=======
+#foot > li > img{
+	cursor: pointer;
+}
+dl > dd > a:hover{
+	color: rgba(54, 215, 182, 0.8) !important;
+	text-decoration: none;
+}
+>>>>>>> origin/master
