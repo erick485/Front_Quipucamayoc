@@ -155,3 +155,6 @@ dd>a{
 #foot>li{
 	margin-left: 26px;
 }
+#foot>li:hover{
+	cursor: pointer;
+};
